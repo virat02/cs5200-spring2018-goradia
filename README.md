@@ -4,6 +4,6 @@
 
 [Insert a static hello message](http://cs5200-spring2018-goradia.us-east-2.elasticbeanstalk.com/api/hello/insert)
 
-[Insert a parameterized hello message](http:///cs5200-spring2018-goradia.us-east-2.elasticbeanstalk.com/api/hello/insert/PR2 Finally Done!)
+[Insert a parameterized hello message](http:///cs5200-spring2018-goradia.us-east-2.elasticbeanstalk.com/api/hello/insert/PR2 Finally Done)
 
 [Retrieve all hello messages](http:///cs5200-spring2018-goradia.us-east-2.elasticbeanstalk.com/api/hello/select/all)
