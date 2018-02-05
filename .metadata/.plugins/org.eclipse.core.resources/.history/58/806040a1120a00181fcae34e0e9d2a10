@@ -1,6 +1,6 @@
 spring.datasource.url=jdbc:mysql://cs5200-spring2018-goradia.crvocrdea1u4.us-east-2.rds.amazonaws.com/cs5200_spring2018_goradia
-spring.datasource.username=virat
-spring.datasource.password=123456712
+spring.datasource.username=virat02
+spring.datasource.password=12341234
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=create
 spring.jpa.show-sql=true
