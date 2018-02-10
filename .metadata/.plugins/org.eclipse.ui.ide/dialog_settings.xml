@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<list key="installedFeatures">
 		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
+		<item value="oracle.eclipse.tools.glassfish:17.0.0.201709131633"/>
 		<item value="org.aspectj:1.8.13.201710301818"/>
 		<item value="org.eclipse.ajdt:2.2.4.201710301818"/>
 		<item value="org.eclipse.cft.server.core.feature:1.2.3.v201709130027"/>
@@ -75,6 +76,14 @@
 		<item value="org.eclipse.rse.telnet:3.7.0.201704251225"/>
 		<item value="org.eclipse.rse.useractions:3.7.0.201704251225"/>
 		<item value="org.eclipse.rse:3.7.3.201704251225"/>
+		<item value="org.eclipse.sapphire.java.jdt:9.1.0.201609301330"/>
+		<item value="org.eclipse.sapphire.java:9.1.0.201609301330"/>
+		<item value="org.eclipse.sapphire.modeling.xml:9.1.0.201609301330"/>
+		<item value="org.eclipse.sapphire.osgi:9.1.0.201609301330"/>
+		<item value="org.eclipse.sapphire.platform:9.1.0.201609301330"/>
+		<item value="org.eclipse.sapphire.ui.swt.xml.editor:9.1.0.201609301330"/>
+		<item value="org.eclipse.sapphire.ui:9.1.0.201609301330"/>
+		<item value="org.eclipse.sapphire:9.1.0.201609301330"/>
 		<item value="org.eclipse.tm.terminal.control.feature:4.3.0.201706140544"/>
 		<item value="org.eclipse.tm.terminal.feature:4.3.0.201706140544"/>
 		<item value="org.eclipse.tm.terminal.view.feature:4.3.0.201706140544"/>
